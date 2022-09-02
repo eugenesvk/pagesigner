@@ -26,4 +26,6 @@
   },
 
  "content_security_policy": "script-src 'self' 'unsafe-eval' 'wasm-eval'; object-src 'self'"
+  ,"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAngda5H+4PRkLAWBBTEMAp3ej73LoufTVLcPhZw2rik+vrv/cI80yt4mtnMsyGaJE9y2Zw8JkUCs6nE5H9QFOPnQjw6oxBYTsr9eod7qfAnH+XakX1vqA/h1WXcdJ1ajjk1ljDpqmc0xth2QqrRZxbzSfsOz9x+EkQhnznrv2dPSCQ05dmbpGFYIMNPZaXc5YS5T9f5XID4NsjQJ/WrRYlCVIyWO2PlGqnuGJV4E4AN8snjg/bBw0/gCXxA/x61cPhEsvUQIEfazoXt6GQ3vYdhnLErMRRAH46B+N8/usqXFEPJKrX8WymgrweFJoF9R63Iq5dRd/LWvIUlKVNfZeNwIDAQAB"
+
 }
